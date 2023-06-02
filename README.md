@@ -12,3 +12,8 @@ If you want to be able to call it from outside your local network, you need to e
 
 ### What are my future plans
 I want to set up a dashboard that allows me to see all the data that was collected in the past and be displayed in a really fancy way. However, right now I am not sure as to how I will do this. The possibilities are endless, but I don't want to spend money on hardware right now.
+
+### Sources
+- for the server: basically just followed the tut on startingelectronics.org: https://startingelectronics.org/tutorials/arduino/ethernet-shield-web-server-tutorial/
+- for the temperature measurment: followed the tut that comes with the arduino starter kid
+- for the combination of the two: pure magic and mad skillz.
